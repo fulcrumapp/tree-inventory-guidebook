@@ -1,5 +1,7 @@
 # Designing a Process
 
+Before jumping right into a survey design, it helps to think first about the final goals of your tree inventory survey. While most tree inventory projects probably have similar goals, it's worth drawing up what a successful finished product should look like so you can have that in mind as you're deciding what to collect, how to manage the workflow, and w
+
 * Basic requirements
   * What's the basic objective?
   * Build a base dataset
