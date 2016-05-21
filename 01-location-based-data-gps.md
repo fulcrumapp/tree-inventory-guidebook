@@ -15,15 +15,4 @@ When you start capturing reliable location data, here are just a few of the adva
 * You can create summary reports on data by location - tree species by neighborhood, total density of trees per square mile
 * Optimize your field crew distribution and zonal assignment based on productivity levels and quantities of data for future revisits
 
-Of course, information can have value alone without location data, but the derivative analytical possibilities once your data is "spatial" are many. In addition to the "what" of your data (the basic attributes or form responses on a survey), the "where" component of spatial data gives insight for process improvement, reporting, analysis, and ultimately decision making. You can use location to optimize dispatch or assignment for field tasks, as well as to understand patterns in your results.
-
-* Data is valuable even without location
-* Context enables additional decision-making, reporting, analysis
-* Workforce optimization
-* Asset management teams concern themselves primarily with the assets themselves, not specifically the "where"
-* Spatial distributions
-* Spatio-temporal data - the time component is also critical
-  * When was this tree planted?
-  * When was it last maintained / surveyed?
-* Geofencing
-* Resource tracking not just for assets, but team management also
+Of course, information can have value alone without location data, but the derivative analytical possibilities once your data is "spatial" are many. In addition to the "what" of your data (the basic attributes or form responses on a survey), the "where" component of spatial data gives insight for process improvement, reporting, analysis, and ultimately decision making. You can use location to optimize dispatch or assignment for field tasks, as well as to understand patterns in your results. Tracking work on resources this way is great not just for managing the asset data, but also the team's productivity. Using a data collection process that also tracks the date and time of work completion adds another dimension for your reporting. You can see not only _where_ a tree was planted and _what_ the health of the tree looks like, but also _when_ it was last surveyed.
