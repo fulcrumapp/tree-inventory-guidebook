@@ -15,10 +15,10 @@ The planting, removal, and replacement of trees is only part of the battle. You 
 This guidebook will help parks departments, arborists, and forestry managers to build effective data collection practices.
 
 A systematic, structured program
-Data interoperability
-Transparency and sharing
-Low cost of management
-Low cost of training and support
+* Data interoperability
+* Transparency and sharing
+* Low cost of management
+* Low cost of training and support
 
 Topics covered in this guide:
 
